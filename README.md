@@ -1,1 +1,1 @@
-<img src="https://raw.githubusercontent.com/zeynep-sr/zeynep-sr/github-snake-remix/output/snake.gif" alt="GitHub contribution snake" />
+<img src="https://raw.githubusercontent.com/zeynep-sr/github-snake-remix/output/snake.gif" alt="GitHub contribution snake" />
